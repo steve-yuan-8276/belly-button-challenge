@@ -10,7 +10,9 @@ The goal of this project is to build an interactive dashboard using D3.js and Pl
 
 ## Deployment
 
-The project is deployed on GitHub Pages. You can access the live dashboard at the following URL: <https://steve-yuan-8276.github.io/belly-button-challenge/>](https://steve-yuan-8276.github.io/belly-button-challenge/)
+The project is deployed on GitHub Pages. 
+You can access the dashboard via URL:
+https://steve-yuan-8276.github.io/belly-button-challenge/
 
 ## Features
 
